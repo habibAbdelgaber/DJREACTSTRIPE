@@ -1,0 +1,8 @@
+POST http://127.0.0.1/dj-rest-auth/login/
+
+Content-Type: "application/json"
+
+{
+    "email": "admin@gmail.com",
+    "password": "test12345"
+}
